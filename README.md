@@ -1,5 +1,5 @@
 # High-throughput single-organelle mass spectrometry measurements
-Data analysis pipeline for the single-vesicle MS measurements
+Data analysis pipeline for the single-vesicle MALDI MS data
 
 <p align="center">
 <img src="https://github.com/richardxie1119/DCV_DA/blob/main/coverart.png" width="800",align="middle">
