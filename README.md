@@ -1,5 +1,7 @@
 # High-throughput single-organelle mass spectrometry measurements
-Data analysis pipeline for the single-vesicle MALDI MS data
+
+This is the code repository to perform data analysis in the paper: 
+[Image-Guided MALDI Mass Spectrometry for High-Throughput Single-Organelle Characterization (D.C. Castro, Y.R. Xie, S.S. Rubakhin, E.V. Romanova, J.V. Sweedler, Nature Methods 2020, accepted)](accepted)
 
 <p align="center">
 <img src="https://github.com/richardxie1119/DCV_DA/blob/main/coverart.png" width="800",align="middle">
