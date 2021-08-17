@@ -1,4 +1,4 @@
-# Data analysis for single-organelle mass spectrometry measurements
+# High-throughput single-organelle mass spectrometry measurements
 Data analysis pipeline for the single-vesicle MS measurements
 
 <p align="center">
