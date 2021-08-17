@@ -14,4 +14,4 @@ This is the code repository to perform data analysis in the paper:
 
 ### Data availability
 - The MS1 peak data (.xml) that supports the findings of this study are publicly available via the Illinois Data Bank (https://doi.org/10.13012/B2IDB-5949772_V1)
-- Data containing multivariate peak intensities processed by MATLAB (.mat) are provided in the data folder.
+- Data containing multivariate peak intensities processed by MATLAB (.mat) are provided in the [data](data) folder.
