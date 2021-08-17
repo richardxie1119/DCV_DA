@@ -1,4 +1,4 @@
-# DCV_DA
+# Data analysis for single-organelle mass spectrometry measurements
 Data analysis pipeline for the single-vesicle MS measurements
 
 ### To reproduce the figures
