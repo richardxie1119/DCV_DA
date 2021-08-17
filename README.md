@@ -7,5 +7,5 @@ Data analysis pipeline for the single-vesicle MS measurements
 - **vesicle_classification.py**: complete pipeline for vesicle type classification using machine learning
 
 ### Data availability
-- The data that supports the findings of this study are publicly available via the Illinois Data Bank (https://doi.org/10.13012/B2IDB-5949772_V1)
-- 
+- The MS1 peak data (.xml) that supports the findings of this study are publicly available via the Illinois Data Bank (https://doi.org/10.13012/B2IDB-5949772_V1)
+- Data containing multivariate peak intensities processed by MATLAB (.mat) are provided in the data folder.
