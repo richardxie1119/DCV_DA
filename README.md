@@ -5,7 +5,7 @@
 </p>
 
 This is the code repository to perform data analysis in the paper: 
-[Image-Guided MALDI Mass Spectrometry for High-Throughput Single-Organelle Characterization](https://www.nature.com/articles/s41592-021-01277-2), D.C. Castro, Y.R. Xie, S.S. Rubakhin, E.V. Romanova, J.V. Sweedler, Nature Methods 2021, accepted
+[Image-Guided MALDI Mass Spectrometry for High-Throughput Single-Organelle Characterization](https://www.nature.com/articles/s41592-021-01277-2), D.C. Castro, Y.R. Xie, S.S. Rubakhin, E.V. Romanova, J.V. Sweedler, Nat Methods (2021). 
 
 ### File descriptions
 - [**reproduce_figures.ipynb**](reproduce_figures.ipynb): Interactive Jupyter Notebook to reproduce figures for the dense-core vesicle dataset.
